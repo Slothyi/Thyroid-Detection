@@ -1,2 +1,2 @@
 # Thyroid-Detection
-This is my project that detects thyroid.
+- This model buils a classification methodology to predict the type of Thyroid based on the given data.
